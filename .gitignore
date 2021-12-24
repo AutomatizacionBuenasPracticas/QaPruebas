@@ -1,0 +1,14 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+.settings
+.idea 
+.classpath
+.project
+.iml
+
+# Ignore Gradle build output directory
+bin
+build
+history
+target
+src/test/resources/com/bank/drivers
